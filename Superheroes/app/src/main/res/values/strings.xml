@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Superheroes</string>
+
+    <string name="hero1">Iron Man</string>
+    <string name="description1">Thiên tài, tỷ phú, nhà phát minh bộ giáp Mark. Bộ giáp công nghệ giúp anh bay, chiến đấu và bảo vệ thế giới.</string>
+
+    <string name="hero2">Thor</string>
+    <string name="description2">Thần sấm của Asgard, điều khiển sấm sét và sử dụng búa Mjolnir để bảo vệ chín cõi.</string>
+
+    <string name="hero3">Black Widow</string>
+    <string name="description3">Điệp viên tinh nhuệ, chuyên gia chiến đấu và tình báo, luôn hoàn thành nhiệm vụ trong bóng tối.</string>
+
+    <string name="hero4">Captain America</string>
+    <string name="description4">Người lính siêu chiến binh, mang theo chiếc khiên vibranium và tinh thần không bao giờ bỏ cuộc.</string>
+
+    <string name="hero5">Hulk</string>
+    <string name="description5">Nhà khoa học hóa thành người khổng lồ xanh, sức mạnh càng tăng khi càng tức giận.</string>
+
+    <string name="hero6">Hawkeye</string>
+    <string name="description6">Cung thủ bách phát bách trúng, không có siêu năng lực nhưng luôn đáng tin cậy trong đội.</string>
+</resources>

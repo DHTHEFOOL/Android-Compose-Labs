@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Superheroes Mini</string>
+    <string name="app_title">Superheroes</string>
+    <string name="show_more">Xem thêm</string>
+    <string name="collapse">Thu gọn</string>
+    <string name="add_favorite">Thêm %1$s vào yêu thích</string>
+    <string name="remove_favorite">Bỏ %1$s khỏi yêu thích</string>
+</resources>
